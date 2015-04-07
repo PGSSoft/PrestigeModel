@@ -1,0 +1,616 @@
+{
+  "initialSyncInProgress": true,
+  "playersNum": 2,
+  "cardStates": [
+    {
+      "cardIndex": 5,
+      "cardPosition": "PLAYER0_TABLE",
+      "tableIndex": 0,
+      "handIndex": 0
+    },
+    {
+      "cardIndex": 15,
+      "cardPosition": "TABLE",
+      "tableIndex": 1,
+      "handIndex": 0
+    },
+    {
+      "cardIndex": 43,
+      "cardPosition": "TABLE",
+      "tableIndex": 0,
+      "handIndex": 0
+    },
+    {
+      "cardIndex": 38,
+      "cardPosition": "PLAYER1_TABLE",
+      "tableIndex": 1,
+      "handIndex": 0
+    },
+    {
+      "cardIndex": 21,
+      "cardPosition": "TABLE",
+      "tableIndex": 2,
+      "handIndex": 0
+    },
+    {
+      "cardIndex": 76,
+      "cardPosition": "PLAYER1_TABLE",
+      "tableIndex": 0,
+      "handIndex": 0
+    },
+    {
+      "cardIndex": 17,
+      "cardPosition": "PLAYER1_TABLE",
+      "tableIndex": 2,
+      "handIndex": 0
+    },
+    {
+      "cardIndex": 59,
+      "cardPosition": "PLAYER0_TABLE",
+      "tableIndex": 1,
+      "handIndex": 0
+    },
+    {
+      "cardIndex": 44,
+      "cardPosition": "PLAYER1_TABLE",
+      "tableIndex": 3,
+      "handIndex": 0
+    },
+    {
+      "cardIndex": 86,
+      "cardPosition": "PLAYER0_TABLE",
+      "tableIndex": 2,
+      "handIndex": 0
+    },
+    {
+      "cardIndex": 48,
+      "cardPosition": "PLAYER0_TABLE",
+      "tableIndex": 3,
+      "handIndex": 0
+    },
+    {
+      "cardIndex": 57,
+      "cardPosition": "PLAYER0_TABLE",
+      "tableIndex": 3,
+      "handIndex": 0
+    },
+    {
+      "cardIndex": 62,
+      "cardPosition": "PLAYER1_HAND",
+      "tableIndex": 0,
+      "handIndex": 0
+    },
+    {
+      "cardIndex": 12,
+      "cardPosition": "TABLE",
+      "tableIndex": 3,
+      "handIndex": 0
+    },
+    {
+      "cardIndex": 26,
+      "cardPosition": "PLAYER0_TABLE",
+      "tableIndex": 3,
+      "handIndex": 0
+    },
+    {
+      "cardIndex": 32,
+      "cardPosition": "PLAYER0_TABLE",
+      "tableIndex": 1,
+      "handIndex": 0
+    },
+    {
+      "cardIndex": 89,
+      "cardPosition": "PLAYER1_TABLE",
+      "tableIndex": 2,
+      "handIndex": 0
+    },
+    {
+      "cardIndex": 88,
+      "cardPosition": "PLAYER0_TABLE",
+      "tableIndex": 3,
+      "handIndex": 0
+    },
+    {
+      "cardIndex": 34,
+      "cardPosition": "PLAYER0_TABLE",
+      "tableIndex": 1,
+      "handIndex": 0
+    },
+    {
+      "cardIndex": 77,
+      "cardPosition": "PLAYER1_TABLE",
+      "tableIndex": 2,
+      "handIndex": 0
+    },
+    {
+      "cardIndex": 29,
+      "cardPosition": "PLAYER1_TABLE",
+      "tableIndex": 1,
+      "handIndex": 0
+    },
+    {
+      "cardIndex": 3,
+      "cardPosition": "TABLE",
+      "tableIndex": 2,
+      "handIndex": 0
+    },
+    {
+      "cardIndex": 23,
+      "cardPosition": "PLAYER1_TABLE",
+      "tableIndex": 1,
+      "handIndex": 0
+    },
+    {
+      "cardIndex": 51,
+      "cardPosition": "PLAYER0_TABLE",
+      "tableIndex": 1,
+      "handIndex": 0
+    },
+    {
+      "cardIndex": 37,
+      "cardPosition": "TABLE",
+      "tableIndex": 1,
+      "handIndex": 0
+    },
+    {
+      "cardIndex": 2,
+      "cardPosition": "PLAYER1_TABLE",
+      "tableIndex": 0,
+      "handIndex": 0
+    },
+    {
+      "cardIndex": 70,
+      "cardPosition": "PLAYER0_TABLE",
+      "tableIndex": 2,
+      "handIndex": 0
+    },
+    {
+      "cardIndex": 8,
+      "cardPosition": "TABLE",
+      "tableIndex": 0,
+      "handIndex": 0
+    },
+    {
+      "cardIndex": 41,
+      "cardPosition": "TABLE",
+      "tableIndex": 3,
+      "handIndex": 0
+    },
+    {
+      "cardIndex": 31,
+      "cardPosition": "DECK",
+      "tableIndex": 0,
+      "handIndex": 0
+    },
+    {
+      "cardIndex": 36,
+      "cardPosition": "DECK",
+      "tableIndex": 0,
+      "handIndex": 0
+    },
+    {
+      "cardIndex": 18,
+      "cardPosition": "DECK",
+      "tableIndex": 0,
+      "handIndex": 0
+    },
+    {
+      "cardIndex": 50,
+      "cardPosition": "PLAYER1_TABLE",
+      "tableIndex": 3,
+      "handIndex": 0
+    },
+    {
+      "cardIndex": 71,
+      "cardPosition": "PLAYER1_TABLE",
+      "tableIndex": 3,
+      "handIndex": 0
+    },
+    {
+      "cardIndex": 63,
+      "cardPosition": "PLAYER0_TABLE",
+      "tableIndex": 1,
+      "handIndex": 0
+    },
+    {
+      "cardIndex": 28,
+      "cardPosition": "DECK",
+      "tableIndex": 0,
+      "handIndex": 0
+    },
+    {
+      "cardIndex": 24,
+      "cardPosition": "DECK",
+      "tableIndex": 0,
+      "handIndex": 0
+    },
+    {
+      "cardIndex": 68,
+      "cardPosition": "PLAYER1_TABLE",
+      "tableIndex": 3,
+      "handIndex": 2
+    },
+    {
+      "cardIndex": 14,
+      "cardPosition": "DECK",
+      "tableIndex": 0,
+      "handIndex": 0
+    },
+    {
+      "cardIndex": 69,
+      "cardPosition": "PLAYER1_TABLE",
+      "tableIndex": 1,
+      "handIndex": 0
+    },
+    {
+      "cardIndex": 65,
+      "cardPosition": "PLAYER1_TABLE",
+      "tableIndex": 1,
+      "handIndex": 0
+    },
+    {
+      "cardIndex": 27,
+      "cardPosition": "DECK",
+      "tableIndex": 0,
+      "handIndex": 0
+    },
+    {
+      "cardIndex": 46,
+      "cardPosition": "DECK",
+      "tableIndex": 0,
+      "handIndex": 0
+    },
+    {
+      "cardIndex": 80,
+      "cardPosition": "PLAYER0_TABLE",
+      "tableIndex": 1,
+      "handIndex": 0
+    },
+    {
+      "cardIndex": 81,
+      "cardPosition": "PLAYER1_HAND",
+      "tableIndex": 1,
+      "handIndex": 1
+    },
+    {
+      "cardIndex": 1,
+      "cardPosition": "DECK",
+      "tableIndex": 0,
+      "handIndex": 0
+    },
+    {
+      "cardIndex": 74,
+      "cardPosition": "PLAYER1_TABLE",
+      "tableIndex": 0,
+      "handIndex": 0
+    },
+    {
+      "cardIndex": 10,
+      "cardPosition": "DECK",
+      "tableIndex": 0,
+      "handIndex": 0
+    },
+    {
+      "cardIndex": 54,
+      "cardPosition": "PLAYER0_TABLE",
+      "tableIndex": 0,
+      "handIndex": 0
+    },
+    {
+      "cardIndex": 87,
+      "cardPosition": "PLAYER0_TABLE",
+      "tableIndex": 0,
+      "handIndex": 0
+    },
+    {
+      "cardIndex": 72,
+      "cardPosition": "PLAYER1_TABLE",
+      "tableIndex": 2,
+      "handIndex": 0
+    },
+    {
+      "cardIndex": 66,
+      "cardPosition": "PLAYER0_TABLE",
+      "tableIndex": 2,
+      "handIndex": 0
+    },
+    {
+      "cardIndex": 9,
+      "cardPosition": "DECK",
+      "tableIndex": 0,
+      "handIndex": 0
+    },
+    {
+      "cardIndex": 40,
+      "cardPosition": "DECK",
+      "tableIndex": 0,
+      "handIndex": 0
+    },
+    {
+      "cardIndex": 0,
+      "cardPosition": "DECK",
+      "tableIndex": 0,
+      "handIndex": 0
+    },
+    {
+      "cardIndex": 55,
+      "cardPosition": "PLAYER0_HAND",
+      "tableIndex": 0,
+      "handIndex": 0
+    },
+    {
+      "cardIndex": 58,
+      "cardPosition": "PLAYER0_TABLE",
+      "tableIndex": 1,
+      "handIndex": 0
+    },
+    {
+      "cardIndex": 42,
+      "cardPosition": "DECK",
+      "tableIndex": 0,
+      "handIndex": 0
+    },
+    {
+      "cardIndex": 13,
+      "cardPosition": "DECK",
+      "tableIndex": 0,
+      "handIndex": 0
+    },
+    {
+      "cardIndex": 19,
+      "cardPosition": "DECK",
+      "tableIndex": 0,
+      "handIndex": 0
+    },
+    {
+      "cardIndex": 64,
+      "cardPosition": "TABLE",
+      "tableIndex": 2,
+      "handIndex": 0
+    },
+    {
+      "cardIndex": 7,
+      "cardPosition": "DECK",
+      "tableIndex": 0,
+      "handIndex": 0
+    },
+    {
+      "cardIndex": 39,
+      "cardPosition": "DECK",
+      "tableIndex": 0,
+      "handIndex": 0
+    },
+    {
+      "cardIndex": 60,
+      "cardPosition": "TABLE",
+      "tableIndex": 3,
+      "handIndex": 0
+    },
+    {
+      "cardIndex": 79,
+      "cardPosition": "TABLE",
+      "tableIndex": 0,
+      "handIndex": 0
+    },
+    {
+      "cardIndex": 4,
+      "cardPosition": "DECK",
+      "tableIndex": 0,
+      "handIndex": 0
+    },
+    {
+      "cardIndex": 84,
+      "cardPosition": "PLAYER1_HAND",
+      "tableIndex": 1,
+      "handIndex": 2
+    },
+    {
+      "cardIndex": 16,
+      "cardPosition": "DECK",
+      "tableIndex": 0,
+      "handIndex": 0
+    },
+    {
+      "cardIndex": 22,
+      "cardPosition": "DECK",
+      "tableIndex": 0,
+      "handIndex": 0
+    },
+    {
+      "cardIndex": 25,
+      "cardPosition": "DECK",
+      "tableIndex": 0,
+      "handIndex": 0
+    },
+    {
+      "cardIndex": 47,
+      "cardPosition": "DECK",
+      "tableIndex": 0,
+      "handIndex": 0
+    },
+    {
+      "cardIndex": 85,
+      "cardPosition": "PLAYER0_HAND",
+      "tableIndex": 1,
+      "handIndex": 1
+    },
+    {
+      "cardIndex": 45,
+      "cardPosition": "DECK",
+      "tableIndex": 0,
+      "handIndex": 0
+    },
+    {
+      "cardIndex": 33,
+      "cardPosition": "DECK",
+      "tableIndex": 0,
+      "handIndex": 0
+    },
+    {
+      "cardIndex": 20,
+      "cardPosition": "DECK",
+      "tableIndex": 0,
+      "handIndex": 0
+    },
+    {
+      "cardIndex": 52,
+      "cardPosition": "TABLE",
+      "tableIndex": 1,
+      "handIndex": 0
+    },
+    {
+      "cardIndex": 30,
+      "cardPosition": "DECK",
+      "tableIndex": 0,
+      "handIndex": 0
+    },
+    {
+      "cardIndex": 82,
+      "cardPosition": "DECK",
+      "tableIndex": 0,
+      "handIndex": 0
+    },
+    {
+      "cardIndex": 83,
+      "cardPosition": "DECK",
+      "tableIndex": 0,
+      "handIndex": 0
+    },
+    {
+      "cardIndex": 61,
+      "cardPosition": "DECK",
+      "tableIndex": 0,
+      "handIndex": 0
+    },
+    {
+      "cardIndex": 78,
+      "cardPosition": "DECK",
+      "tableIndex": 0,
+      "handIndex": 0
+    },
+    {
+      "cardIndex": 56,
+      "cardPosition": "DECK",
+      "tableIndex": 0,
+      "handIndex": 0
+    },
+    {
+      "cardIndex": 73,
+      "cardPosition": "DECK",
+      "tableIndex": 0,
+      "handIndex": 0
+    },
+    {
+      "cardIndex": 35,
+      "cardPosition": "DECK",
+      "tableIndex": 0,
+      "handIndex": 0
+    },
+    {
+      "cardIndex": 67,
+      "cardPosition": "DECK",
+      "tableIndex": 0,
+      "handIndex": 0
+    },
+    {
+      "cardIndex": 75,
+      "cardPosition": "DECK",
+      "tableIndex": 0,
+      "handIndex": 0
+    },
+    {
+      "cardIndex": 53,
+      "cardPosition": "DECK",
+      "tableIndex": 0,
+      "handIndex": 0
+    },
+    {
+      "cardIndex": 49,
+      "cardPosition": "DECK",
+      "tableIndex": 0,
+      "handIndex": 0
+    },
+    {
+      "cardIndex": 11,
+      "cardPosition": "DECK",
+      "tableIndex": 0,
+      "handIndex": 0
+    },
+    {
+      "cardIndex": 6,
+      "cardPosition": "DECK",
+      "tableIndex": 0,
+      "handIndex": 0
+    }
+  ],
+  "visitorStates": [
+    {
+      "visitorCardIndex": 8,
+      "position": "TABLE"
+    },
+    {
+      "visitorCardIndex": 5,
+      "position": "TABLE"
+    },
+    {
+      "visitorCardIndex": 6,
+      "position": "PLAYER0_TABLE"
+    }
+  ],
+  "tableCoins": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    5
+  ],
+  "player0Coins": [
+    2,
+    4,
+    1,
+    1,
+    2,
+    0
+  ],
+  "player1Coins": [
+    2,
+    0,
+    3,
+    3,
+    2,
+    0
+  ],
+  "player2Coins": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "player3Coins": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "lastMove": {
+    "moveType": "TAKE_COINS",
+    "player": "PLAYER0",
+    "getRed": 0,
+    "getGreen": 1,
+    "getBlue": 0,
+    "getBlack": 0,
+    "getWhite": 1,
+    "removeRed": 0,
+    "removeGreen": 0,
+    "removeBlue": 0,
+    "removeBlack": 0,
+    "removeWhite": 0,
+    "removeJokers": 0,
+    "tableOrHandIndex": 0
+  }
+}
